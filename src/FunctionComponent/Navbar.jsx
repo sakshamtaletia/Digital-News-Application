@@ -59,5 +59,4 @@ export default function Navbar(props){
         </div>
       </nav>
     )
-  
 }
